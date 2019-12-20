@@ -1,2 +1,2 @@
 # learn-python
-learning
+learning the python hard way
